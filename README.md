@@ -1,2 +1,2 @@
 # Eden-M.-Portfolio
-Data Analytics Portfoli
+Data Analytics Portfolio
